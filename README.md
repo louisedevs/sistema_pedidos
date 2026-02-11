@@ -1,14 +1,13 @@
-# Sistema de Pedidos
+# Order Management System
+Project to practice Java with an order/e-commerce system.
 
-Projeto para praticar Java com sistema de pedidos/e-commerce.
+## Objective
+Apply Java, Spring Boot, and SQL concepts in a real project.
 
-## Objetivo
-Aplicar conceitos de Java, Spring Boot e SQL em um projeto real.
-
-## Tecnologias
+## Technologies
 - Java 
 - Spring Boot
 - Maven
 
 ## Status
-Projeto em desenvolvimento inicial.
+Project in initial development.
